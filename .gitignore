@@ -1,0 +1,4 @@
+dist/
+uv.lock
+.python-version
+*.egg-info/
